@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestJukeBox-API", "RequestJukeBox-API\RequestJukeBox-API.csproj", "{6DD3A835-460E-4654-B7C9-81BB20087600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD3A835-460E-4654-B7C9-81BB20087600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD3A835-460E-4654-B7C9-81BB20087600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD3A835-460E-4654-B7C9-81BB20087600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD3A835-460E-4654-B7C9-81BB20087600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC925C19-2C46-4162-AC69-E431F76FA59D}
+	EndGlobalSection
+EndGlobal
